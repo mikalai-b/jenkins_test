@@ -1,5 +1,9 @@
 <project name="MyProject" default="all">
-           <target name="all" description="Do the entire build" >
-           <echo>I'm building my software</echo>
-           </target>
-           </project>
+
+	<target name="all" description="Do the entire build" >
+
+		<echo>I'm building my software</echo>
+
+	</target>
+
+</project>
