@@ -3,7 +3,8 @@
 	<target name="all" description="Do the entire build" >
 
 		<echo>I'm building my software</echo>
-		<echo>Test text 123</echo>
+		
+		<mkdir dir="mik_test_ant"/>
 
 	</target>
 
